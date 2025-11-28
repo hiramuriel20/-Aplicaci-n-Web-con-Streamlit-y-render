@@ -1,5 +1,5 @@
-🚗# PROYECTO7 Aplicación Web con Streamlit y render
-llamada PROYECTO7: 
+🚗#  Aplicación Web con Streamlit y render
+llamada: 
 Este proyecto consiste en una aplicación web construida con Streamlit, cuyo objetivo es explorar y visualizar datos de vehículos a partir del archivo vehicles_us.csv.
 
 📋 Descripción
